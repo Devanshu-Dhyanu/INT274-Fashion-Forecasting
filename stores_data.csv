@@ -1,0 +1,13 @@
+Store,StoreType,Assortment,Region,SustainabilityRating,EcoTax_Incentive
+1,Boutique,Eco-Basics,New York,4.382461991267163,1
+2,Online,Eco-Basics,Paris,4.983230885806789,0
+3,Flagship,Organic Essentials,Tokyo,4.46676289324798,1
+4,Boutique,Eco-Basics,New York,4.859940406736321,0
+5,Boutique,Premium Ethical,London,4.68030753858778,1
+6,Online,Organic Essentials,London,4.450499251969543,0
+7,Flagship,Premium Ethical,Milan,4.013264961159867,1
+8,Flagship,Premium Ethical,Milan,4.942201755684852,0
+9,Boutique,Premium Ethical,Paris,4.563288217845539,0
+10,Outlet,Premium Ethical,New York,4.3854165025399166,1
+11,Boutique,Organic Essentials,New York,4.015966252220214,0
+12,Boutique,Organic Essentials,Milan,4.230893825622149,1
